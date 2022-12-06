@@ -16,7 +16,7 @@ We are not looking for this to be something on which you spend a great deal of t
    - We recommend the [Open Brewery DB API](https://www.openbrewerydb.org/documentation)
 3. Display data from that API.
 4. Enable a detail view of some entity returned from the API.
-5. The applicatiom must run on both iOS and Android emulators.
+5. The application must run on both iOS and Android emulators.
 
 ## Code Expectations
 
