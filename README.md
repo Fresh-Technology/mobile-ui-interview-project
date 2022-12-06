@@ -1,5 +1,7 @@
 # Mobile UI Interview Project
 
+![Brand Logo](./fresh-kds-logo-full-black.png)
+
 ## Introduction
 
 The main purpose of this project is to get a sense of how you think about structuring your code for maintainability and reusability - effectively, how it is that you communicate utilizing code. At a minimum, your submission should compile and run. Projects that are successful will also include a README detailing what steps need to be taken to execute the project, locally.
