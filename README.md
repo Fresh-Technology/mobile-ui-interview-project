@@ -1,6 +1,6 @@
 # Mobile UI Interview Project
 
-![Brand Logo](./fresh-kds-logo-full-black.png)
+<img src="./fresh-kds-logo-full-black.png" width="300px"/>
 
 ## Introduction
 
