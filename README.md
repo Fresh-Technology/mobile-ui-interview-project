@@ -12,10 +12,11 @@ We are not looking for this to be something on which you spend a great deal of t
 
 ## Requirements
 
-1. Retrieve information from any open, public API. 
-1. Display data from that API.
-1. Enable a detail view of some entity returned from the API.
-1. The applicatiom must run on both iOS and Android emulators.
+1. Retrieve information from any open, public API.
+   - We recommend the [Open Brewery DB API](https://www.openbrewerydb.org/documentation)
+3. Display data from that API.
+4. Enable a detail view of some entity returned from the API.
+5. The applicatiom must run on both iOS and Android emulators.
 
 ## Code Expectations
 
