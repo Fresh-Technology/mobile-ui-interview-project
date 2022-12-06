@@ -8,7 +8,7 @@ The main purpose of this project is to get a sense of how you think about struct
 
 ### Disclaimer
 
-We are not looking for this to be something on which you spend a great deal of time; our Engineers estimate that this should take no longer than two-to-three hours of coding. Ultimately, this project acts as an additional criterion to be used to differentiate candidates and to better demonstrate candidate technical capabilities.
+We are not looking for this to be something on which you spend a great deal of time; our Engineers estimate that this should take no longer than three-to-four hours of coding. Ultimately, this project acts as an additional criterion to be used to differentiate candidates and to better demonstrate candidate technical capabilities.
 
 ## Requirements
 
